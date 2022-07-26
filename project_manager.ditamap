@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Project Manager</title>
+    <topicref href="What%20is%20Project%20Manager.dita"/>
+    <topicref href="creating_a_task.dita"/>
+    <topicref href="editing_a_task.dita"/>
+    <topicref href="Attaching%20a%20File.dita"/>
+    <topicref href="changing_the_status_of_a_task.dita"/>
+</map>
